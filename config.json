@@ -1,0 +1,10 @@
+{
+  "dataset_path": "data/gaza_air_bridge_dataset.xlsx",
+  "origin": "ORG",
+  "destination": "GZC",
+  "shipment_tonnes": 20,
+  "default_objective": "time",
+  "balanced_weights": {"time": 0.4, "cost": 0.3, "risk": 0.3},
+  "weighted_astar_w": 1.5,
+  "random_seed": 42
+}
